@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## LIFE Topics
 
-You can use the [editor on GitHub](https://github.com/writerzzub/lifeexperience.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aside from tech and business, I still highly enjoy writing about other topics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the end of the day, life isn't just about money, it's also about exploration, art, travel, love, and philosophy.
 
-### Markdown
+* This text is italicized* "Those who were seen dancing were thought to be insane by those who could not hear the music." - Nietzsche
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Here are Some of my more explorative works:
+#### Travel
+- [Top 10 Best Places To Ride A Motorbike In Asia](https://www.10best.cc/top-10-best-places-to-ride-a-motorbike-in-asia/)
 
-```markdown
-Syntax highlighted code block
+- [Top 10 Best Beaches In Southeast Asia: Virgin Beaches](https://www.10best.cc/top-10-best-beaches-in-southeast-asia-virgin-beaches/)
 
-# Header 1
-## Header 2
-### Header 3
+- [Top 10 Best Tourist Experience In The Philippines: Live Local](https://www.10best.cc/top-10-best-tourist-experience-in-the-philippines-live-local/)
 
-- Bulleted
-- List
+#### Food
+- [Healthy Desserts: Satisfy Cravings Without Feeling Guilty](https://www.reviewer.today/2021/04/17/healthy-desserts-satisfy-cravings-without-feeling-guilty/)
 
-1. Numbered
-2. List
+- [Top 10 Must-Try Food In Singapore: Get A Mix Of Asian Flavors](https://www.10best.cc/top-10-must-try-food-in-singapore-get-a-mix-of-indian-chinese-hong-kong-food-and-more/)
 
-**Bold** and _Italic_ and `Code` text
+- [Healthy McDonalds Options This 2021: 320 Calories and Below](https://www.reviewer.today/2021/04/17/healthy-mcdonalds-options-this-2021-320-calories-and-below/)
 
-[Link](url) and ![Image](src)
-```
+#### Music
+- [The Dark Story Behind the Dueling Banjos Scene in “Deliverance”](https://www.countrythangdaily.com/dueling-banjos/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [Thomas Rhett Songs That Capture The Hearts of Country Fans](https://www.countrythangdaily.com/thomas-rhett-songs/)
 
-### Jekyll Themes
+- [What is the Sound of the Future?](https://blabberific.com/articles/futuremusic.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/writerzzub/lifeexperience.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Fitness
+- [Top 10 Bad Health Habits And How To Get Over Them](https://www.10best.cc/top-10-bad-health-habits-and-how-to-get-over-them/)
 
-### Support or Contact
+- [Top 10 Ways To Sleep Fast: What Do U Do When U Can’t Sleep?](https://www.10best.cc/top-10-ways-to-sleep-fast-what-do-u-do-when-u-cant-sleep/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Top 10 Ways To Relieve Stress At Home: Destressing 101](https://www.10best.cc/top-10-ways-to-relieve-stress-at-home-destressing-101/)
+
+#### Science
+- [104-Year-Old Italian Grandma Beats COVID-19](https://www.sciencetimes.com/articles/25219/20200406/104-year-old-italian-grandma-beats-covid-19.htm)
+
+- [Scientists Successfully 3D Print Human Corneas; This Breakthrough Can Be the Solution for Transplant Shortage](https://www.techtimes.com/articles/270264/20220108/scientists-successfully-3d-print-eye-breakthrough-corneas-to-help-with-transplant-shortage.htm)
+
+- [Amazon Learning in Space? NASA Testing Alexa Voice Control on Artemis I Mission](https://www.techtimes.com/articles/270124/20220105/amazon-learning-in-space-nasa-testing-alexa-voice-control-on-artemis-i-mission.htm)
+
+#### Art/Fashion
+- [What Pastel Colors Go Well Together? Creating a Light, Creamy, and Soft Design](https://threadbasket.com/blog/how-to-use-pastel-colors/)
+
+- [Top 10 Best Motorcycle Jacket Deals Online: Vintage And Sports](https://www.10best.cc/top-10-best-motorcycle-jacket-deals-online-vintage-and-sports/)
+
+- [Top 10 Men’s Business Suits Brands: Gentleman Must-Haves](https://www.10best.cc/top-10-mens-business-suits-brands-gentlemen-must-haves/)
+
+# [GO BACK TO MAIN PAGE](https://writerzzub.github.io/)
