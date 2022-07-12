@@ -4,7 +4,7 @@ Aside from tech and business, I still highly enjoy writing about other topics.
 
 At the end of the day, life isn't just about money, it's also about exploration, art, travel, love, and philosophy.
 
-* This text is italicized* "Those who were seen dancing were thought to be insane by those who could not hear the music." - Nietzsche
+*"Those who were seen dancing were thought to be insane by those who could not hear the music." - Nietzsche*
 
 ### Here are Some of my more explorative works:
 #### Travel
